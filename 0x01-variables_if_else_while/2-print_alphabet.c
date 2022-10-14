@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * description: program that prints the alphabet in lowercase, followed by a new line
+ * description: program that prints the alphabet
  * return: Always 0 (success)
  */
 
