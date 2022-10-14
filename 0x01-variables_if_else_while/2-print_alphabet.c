@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  *
+ * description: program that prints the alphabet in lowercase, followed by a new line
  * return: Always 0 (success)
  */
 
@@ -15,6 +16,6 @@ int main(void)
 			putchar(c);
 			c++;
 		}
-	putchar('\n');
+	putchar("\n");
 	return (0);
 }
