@@ -3,6 +3,7 @@
 /**
  * _strncat - joinstwo strings with n bytes
  * @dest: copy to
+ * @src: copy from
  * @n: number of char to be copied
  * Return: dest
  */
