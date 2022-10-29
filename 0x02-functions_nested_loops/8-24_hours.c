@@ -2,9 +2,7 @@
 
 
 /**
- * jack_bauer - function that prints every minute of the day
- * Description: Done
- * Return: Always 0
+ * jack_bauer - prints every minute of the day
  */
 void jack_bauer(void)
 {
@@ -22,5 +20,4 @@ void jack_bauer(void)
 			_putchar('\n');
 		}
 	}
-	return (0);
 }
